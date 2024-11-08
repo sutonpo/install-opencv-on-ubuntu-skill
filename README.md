@@ -1,3 +1,9 @@
+#  Install OpenCV 4.5.2 with CUDA 10.2 and CUDNN 8.2.1 in Ubuntu 18.04
+
+Installing OpenCV on the Jetson Nano can be challenging, especially when it comes to enabling CUDA support to accelerate OpenCV. This tutorial will guide you through the process of installing OpenCV with CUDA on the Jetson Nano, which should save you time and simplify the process. Building and compiling OpenCV on the Nano typically takes about 3–4 hours, so following these steps carefully will help you avoid common issues and streamline your installation.
+
+
+
 ## Install OpenCV 4.5.2 with CUDA 10.2 and CUDNN 8.2.1 in Ubuntu 18.04
 
 First of all install update and upgrade your system:
