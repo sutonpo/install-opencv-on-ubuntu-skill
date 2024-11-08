@@ -4,7 +4,7 @@ Installing OpenCV on the Jetson Nano can be challenging, especially when it come
 
 
 
-## Install OpenCV 4.5.2 with CUDA 10.2 and CUDNN 8.2.1 in Ubuntu 18.04
+## Setting system
 
 First of all install update and upgrade your system:
     
